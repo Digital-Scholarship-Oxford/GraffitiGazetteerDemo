@@ -95,7 +95,7 @@ const GraffitiGazetteerDemo = () => {
       content: (
         <div className="relative w-full pb-[56.25%] overflow-hidden rounded-xl shadow-xl border-4 border-gray-300">
           <iframe
-            src="https://graffiti.discapp.link/"
+            src="https://digital-scholarship-oxford.github.io/GraffitiGazetteer/"
             className="absolute top-0 left-0 w-full h-full"
             loading="lazy"
           ></iframe>
